@@ -5,5 +5,5 @@ Tired of YCHs and Adoptables being shoved in your face? Look no further!
 1. Install uBlock Origin (Firefox: https://bit.ly/ublock-origin - Chrome: https://bit.ly/chrome-ublock-origin)
 2. Open the uBlock Origin Dashboard
 3. Click the checkbox next to "Import"
-4. Paste `replaceme` in the text box that appears
+4. Paste `https://raw.githubusercontent.com/Cosmic-K9/no-moe-fa-ads/main/collins-fa-decrapifyer.txt` in the text box that appears
 5. Click "Apply Changes" then "Update now" at the top
